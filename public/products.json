@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cjs2p2dld0000uwtgy6nliyzl",
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": { "rate": 3.9, "count": 120 },
+    "sizes": [{ "size": "XL", "quantity": 3 }]
+  },
+  {
+    "id": "cjs2p2dld0001uwtgyi04np5k",
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": { "rate": 4.1, "count": 259 },
+    "sizes": [
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 8 },
+      { "size": "L", "quantity": 10 }
+    ]
+  },
+  {
+    "id": "cjs2p2dld0002uwtgyu7a7fkk",
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm-hearted love to Father, husband, or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": { "rate": 4.7, "count": 500 },
+    "sizes": [
+      { "size": "M", "quantity": 15 },
+      { "size": "L", "quantity": 20 },
+      { "size": "XL", "quantity": 12 }
+    ]
+  },
+  {
+    "id": "cjs2p2dld0003uwtgyxud5wca",
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": { "rate": 2.1, "count": 430 },
+    "sizes": [
+      { "size": "S", "quantity": 7 },
+      { "size": "M", "quantity": 10 },
+      { "size": "L", "quantity": 8 }
+    ]
+  },
+  {
+    "id": "cjs2p2dld0004uwtgy2xklyg4",
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 3, "count": 400 },
+    "sizes": [
+      { "size": "S", "quantity": 20 },
+      { "size": "M", "quantity": 15 },
+      { "size": "L", "quantity": 18 }
+    ]
+  },
+  {
+    "id": "cjs2p2dld0005uwtgyrygmmxg",
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 1.9, "count": 100 },
+    "sizes": [
+      { "size": "M", "quantity": 8 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 3 }
+    ]
+  }
+]
