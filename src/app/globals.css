@@ -34,7 +34,7 @@
  
     --radius: 0.5rem;
 
-    font-size: clamp(0.9em, 2vw, 1.4rem);
+    font-size: clamp(0.9em, 2vw, 1.2rem);
   }
  
   .dark {
