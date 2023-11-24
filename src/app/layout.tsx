@@ -5,7 +5,7 @@ import { ReactQueryProvider } from "@/components/providers/react-query-provider"
 
 import { cn } from "@/lib/utils";
 
-export const fontSans = FontSans({
+const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
 });
@@ -21,14 +21,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body
-        className={cn(
-          "min-h-screen bg-background font-sans antialiased",
-          fontSans.variable
-        )}
-      >
-        <ReactQueryProvider>{children}</ReactQueryProvider>
-      </body>
+      <ReactQueryProvider>
+        <body
+          className={cn(
+            "min-h-screen bg-background font-sans antialiased",
+            fontSans.variable
+          )}
+        >
+          {children}
+        </body>
+      </ReactQueryProvider>
     </html>
   );
 }

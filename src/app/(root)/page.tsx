@@ -28,7 +28,7 @@ export default function HomePage() {
           >
             <div className="relative w-3/4 mx-auto h-52">
               <Image
-                src={product.image}
+                src={product.images[0]}
                 alt={`${product.title} image`}
                 fill
                 objectFit="cover"

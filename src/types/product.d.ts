@@ -4,13 +4,15 @@ export interface Product {
   price: number;
   description: string;
   category: string;
-  image: string;
+  images: string[];
   rating: {
     rate: number;
     count: number;
   };
-  sizes: {
-    size: string;
-    quantity: number;
-  }[];
+  sizes: ProductSize[];
+}
+
+export interface ProductSize {
+  size: string;
+  quantity: number;
 }

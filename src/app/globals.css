@@ -33,6 +33,8 @@
     --ring: 0 0% 3.9%;
  
     --radius: 0.5rem;
+
+    font-size: clamp(0.9em, 2vw, 1.4rem);
   }
  
   .dark {

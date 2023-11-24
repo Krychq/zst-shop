@@ -1,82 +1,122 @@
 [
   {
     "id": "cjs2p2dld0000uwtgy6nliyzl",
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "title": "Nike Sportswear Tech Fleece Windrunner",
+    "price": 145.95,
+    "description": "Blending 2 of our most iconic looks, this full-zip hoodie draws design inspiration from our timeless Windrunner jacket as well as our Tech Fleece jacket. It's designed to feel relaxed through the shoulders, chest and body for an athletic fit you can layer. Our premium, smooth-on-both-sides fleece feels warmer and softer than ever, while keeping the same lightweight build you love.",
     "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-    "rating": { "rate": 3.9, "count": 120 },
-    "sizes": [{ "size": "XL", "quantity": 3 }]
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/63367749-1a39-41fd-a11a-fc6a13fadc21/sportswear-tech-fleece-windrunner-mens-full-zip-hoodie-rznlBf.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/08307817-659b-4c55-aa70-b869c097d66e/sportswear-tech-fleece-windrunner-mens-full-zip-hoodie-rznlBf.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/61837e0b-d68f-4778-a352-f264ae8a5bc1/sportswear-tech-fleece-windrunner-mens-full-zip-hoodie-rznlBf.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa11d2e7-57dc-44a1-90e0-da4fc9462054/sportswear-tech-fleece-windrunner-mens-full-zip-hoodie-rznlBf.png"
+    ],
+    "rating": { "rate": 4.9, "count": 120 },
+    "sizes": [
+      { "size": "S", "quantity": 4 },
+      { "size": "M", "quantity": 8 },
+      { "size": "L", "quantity": 10 },
+      { "size": "XL", "quantity": 3 }
+    ]
   },
   {
     "id": "cjs2p2dld0001uwtgyi04np5k",
-    "title": "Mens Casual Premium Slim Fit T-Shirts",
-    "price": 22.3,
-    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "title": "Nike Sportswear Tech Fleece",
+    "price": 115,
+    "description": "Clean and classic, this casual crew brings the familiar feel of your favorite fabric into a versatile, everyday design. Our premium, smooth-on-both-sides fleece feels warmer and softer than ever, while keeping the same lightweight build you love. Just the right amount of Tech Fleece DNA (like the thin elastic trim at the cuffs) provides a signature finish. Wear it with your Tech Fleece joggers and a pair of Nike sneakers for a uniform look.",
     "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-    "rating": { "rate": 4.1, "count": 259 },
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e2709d2-d364-4074-9ba2-7fafc95d17a3/sportswear-tech-fleece-mens-crew-xN0gwb.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3a64c419-b5f1-490d-87b7-75468478f7d0/sportswear-tech-fleece-mens-crew-xN0gwb.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/73878175-18b7-48a5-8bab-5cbfdcd8f0da/sportswear-tech-fleece-mens-crew-xN0gwb.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9a635013-58cf-4231-846b-1cd6d85648e8/sportswear-tech-fleece-mens-crew-xN0gwb.png"
+    ],
+    "rating": { "rate": 4.4, "count": 259 },
     "sizes": [
-      { "size": "S", "quantity": 5 },
-      { "size": "M", "quantity": 8 },
-      { "size": "L", "quantity": 10 }
+      { "size": "S", "quantity": 12 },
+      { "size": "M", "quantity": 2 },
+      { "size": "L", "quantity": 3 },
+      { "size": "XL", "quantity": 8 }
     ]
   },
   {
     "id": "cjs2p2dld0002uwtgyu7a7fkk",
-    "title": "Mens Cotton Jacket",
-    "price": 55.99,
-    "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm-hearted love to Father, husband, or son in this thanksgiving or Christmas Day.",
+    "title": "Jordan Essential Holiday",
+    "price": 70,
+    "description": "Who's ready for the holidays? You are, in this cozy sweatshirt. Made with plush French terry fleece with classic plaid detailing, it serves nostalgic seasonal style and plenty of Jordan heritage.",
     "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/70947fd3-569f-4639-bac5-3c48fbd8d8a4/jordan-essential-holiday-mens-fleece-crew-Tb7hQ5.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3fbaf910-f406-4407-b77d-52363194ebca/jordan-essential-holiday-mens-fleece-crew-Tb7hQ5.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/70bedb84-7fb2-44e2-90ff-a8560a4823cb/jordan-essential-holiday-mens-fleece-crew-Tb7hQ5.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/50ce0dad-8d65-4a9c-a413-f3da7d39bfac/jordan-essential-holiday-mens-fleece-crew-Tb7hQ5.png"
+    ],
     "rating": { "rate": 4.7, "count": 500 },
     "sizes": [
-      { "size": "M", "quantity": 15 },
-      { "size": "L", "quantity": 20 },
-      { "size": "XL", "quantity": 12 }
+      { "size": "S", "quantity": 12 },
+      { "size": "M", "quantity": 4 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 3 }
     ]
   },
   {
     "id": "cjs2p2dld0003uwtgyxud5wca",
-    "title": "Mens Casual Slim Fit",
-    "price": 15.99,
-    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "title": "Nike Sportswear Tech Fleece",
+    "price": 120,
+    "description": "Clean and classic, this pullover hoodie brings premium warmth to a versatile, everyday design. Our premium, smooth-on-both-sides fleece feels warmer and softer than ever, while keeping the same lightweight build you love. Just the right amount of Tech Fleece DNA (like the thin elastic trim at the cuffs) provides a signature finish. Wear it with your Tech Fleece joggers and a pair of Nike sneakers for a uniform look.",
     "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-    "rating": { "rate": 2.1, "count": 430 },
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d4d64a52-c6e3-42ce-9b08-a4dfd449a166/sportswear-tech-fleece-mens-pullover-hoodie-gj7srq.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/470850e7-1167-4307-9b17-1d80578f9e8d/sportswear-tech-fleece-mens-pullover-hoodie-gj7srq.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c909463b-553f-43e0-8d5e-e26318f4c5a2/sportswear-tech-fleece-mens-pullover-hoodie-gj7srq.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d9f9fc6-6b74-4f13-ab45-86fb4272176b/sportswear-tech-fleece-mens-pullover-hoodie-gj7srq.png"
+    ],
+    "rating": { "rate": 4.7, "count": 430 },
     "sizes": [
-      { "size": "S", "quantity": 7 },
-      { "size": "M", "quantity": 10 },
-      { "size": "L", "quantity": 8 }
+      { "size": "S", "quantity": 4 },
+      { "size": "M", "quantity": 8 },
+      { "size": "L", "quantity": 10 },
+      { "size": "XL", "quantity": 3 }
     ]
   },
   {
     "id": "cjs2p2dld0004uwtgy2xklyg4",
-    "title": "White Gold Plated Princess",
-    "price": 9.99,
-    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-    "category": "jewelry",
-    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-    "rating": { "rate": 3, "count": 400 },
+    "title": "Nike Therma",
+    "price": 61.97,
+    "description": "Bring the heat to your cold weather workout. In the Therma Pullover, supersoft fleece keeps the comfort levels high while you take your exercise routine to the next level. A relaxed feel means you can stretch and bench without anything holding you back.",
+    "category": "men's clothing",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/46d931d5-ecf3-4b7b-8e0c-1893aee33c14/therma-mens-therma-fit-hooded-fitness-pullover-X9fVm2.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/10df8cbd-8769-4dd2-a161-0fdad10fc631/therma-mens-therma-fit-hooded-fitness-pullover-X9fVm2.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/29ff0ba9-6e1a-4571-8945-d72669c9a0fd/therma-mens-therma-fit-hooded-fitness-pullover-X9fVm2.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/568937ed-b236-4b82-bf07-435e5699249c/therma-mens-therma-fit-hooded-fitness-pullover-X9fVm2.pngs"
+    ],
+    "rating": { "rate": 5.0, "count": 400 },
     "sizes": [
-      { "size": "S", "quantity": 20 },
-      { "size": "M", "quantity": 15 },
-      { "size": "L", "quantity": 18 }
+      { "size": "S", "quantity": 12 },
+      { "size": "M", "quantity": 4 },
+      { "size": "L", "quantity": 2 },
+      { "size": "XL", "quantity": 3 }
     ]
   },
   {
     "id": "cjs2p2dld0005uwtgyrygmmxg",
-    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-    "price": 10.99,
+    "title": "Nike Sportswear Club Fleece",
+    "price": 60,
     "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-    "category": "jewelry",
-    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-    "rating": { "rate": 1.9, "count": 100 },
+    "category": "men's clothing",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/75f5cf17-1344-49ef-acbf-219ca2b2c509/sportswear-club-fleece-crew-TWcqLw.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/891d50a3-10df-4b36-b12d-45b703977628/sportswear-club-fleece-crew-TWcqLw.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d3bd2592-8675-4e30-94f0-5a27b3718443/sportswear-club-fleece-crew-TWcqLw.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/49064365-0975-45b6-905d-1551a610be6e/sportswear-club-fleece-crew-TWcqLw.png"
+    ],
+    "rating": { "rate": 5.0, "count": 100 },
     "sizes": [
-      { "size": "M", "quantity": 8 },
+      { "size": "S", "quantity": 10 },
+      { "size": "M", "quantity": 2 },
       { "size": "L", "quantity": 5 },
-      { "size": "XL", "quantity": 3 }
+      { "size": "XL", "quantity": 12 }
     ]
   }
 ]
