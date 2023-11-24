@@ -1,6 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
+import Container from "@/components/ui/container";
 import { Product } from "@/types/product";
 import { useQuery } from "@tanstack/react-query";
 import Image from "next/image";
@@ -18,13 +19,13 @@ export default function HomePage() {
   if (isPending || !data) return <p>Loading</p>;
 
   return (
-    <div className="flex items-center justify-center min-h-screen">
-      <div className="grid grid-cols-3 max-w-[1200px] w-[95%] mx-auto gap-8">
+    <Container>
+      <div className="grid grid-cols-2 md:grid-cols-3 max-w-[1200px] w-[95%] mx-auto gap-8">
         {data.map((product) => (
           <Link
             href={`/products/${product.id}`}
             key={product.id}
-            className="duration-150 hover:scale-105"
+            className="duration-150 hover:scale-105 max-w-[300px]"
           >
             <div className="relative w-3/4 mx-auto h-52">
               <Image
@@ -56,6 +57,6 @@ export default function HomePage() {
           </Link>
         ))}
       </div>
-    </div>
+    </Container>
   );
 }
